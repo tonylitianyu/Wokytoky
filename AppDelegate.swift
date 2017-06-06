@@ -27,6 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         product_ids.append("MultipeerNoAds")
         product_ids.append("MultipeerUnlocked")
+        //djsklfjdslkfjkldslkfdsklfjasdlkfjlkds
         
         
         var types = UIUserNotificationType.Badge | UIUserNotificationType.Sound | UIUserNotificationType.Alert;
